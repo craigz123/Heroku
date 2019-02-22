@@ -12,6 +12,9 @@
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
+  "engines" : {
+    "node" : "10.15.1"
+  },
   "author": "",
   "license": "ISC"
 }
